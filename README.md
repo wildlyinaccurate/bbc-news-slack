@@ -1,5 +1,5 @@
-# Design Systems Slack
-The Design Systems Slack promotes the discussion of design systems, style guides, component libraries, and pattern libraries.
+# BBC News Slack
+The BBC News Slack exists for BBC staff to discuss things related to the BBC News digital products.
 
 ## Code of Conduct
-The Design Systems Slack is dedicated to providing a welcoming environment for everyone and has [Code of Conduct](code-of-conduct.md) that all participants must follow.
+The BBC News Slack is dedicated to providing a welcoming environment for everyone and has a [Code of Conduct](code-of-conduct.md) that all participants must follow.

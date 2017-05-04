@@ -1,4 +1,4 @@
-Design Systems Slack Code of Conduct
+BBC News Slack Code of Conduct
 ===============================
 
 ## Table of contents
@@ -15,35 +15,30 @@ Design Systems Slack Code of Conduct
 
 ## Welcome!
 
-The purpose of the Design Systems Slack to promote the discussion of design systems, style guides, component libraries, and pattern libraries.
+The BBC News Slack exists for BBC staff to discuss things related to the BBC News digital products.
 
-The Design Systems Slack is dedicated to providing a welcoming environment for everyone and expects participants in this community to act in a way that promotes an environment that is harassment-free, safe, comfortable, and enjoyable to be a part of. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
+The BBC News Slack is dedicated to providing a welcoming environment for everyone and expects participants in this community to act in a way that promotes an environment that is harassment-free, safe, comfortable, and enjoyable to be a part of. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
 
 ### Admins
-The current admins are:
-* Jina Anne - @jina
-* Maya Benari - @maya
-* Nathan Curtis - @nathancurtis
-* Una Kravets - @una
-* Josh Silverman - @josh
+The current admins can be found at https://bbcnews.slack.com/team.
 
 
 ## What we strive for
 
-We strive to create a welcoming and inclusive culture that encourages people to have discussions about design systems. Our atmosphere requires an open exchange of ideas balanced by thoughtful guidelines. It would be impossible to list everything needed to create a more welcoming space, but we encourage you to embrace these principles for guidance:
+We strive to create a welcoming and inclusive culture that encourages people to have discussions about our digital products. Our atmosphere requires an open exchange of ideas balanced by thoughtful guidelines. It would be impossible to list everything needed to create a more welcoming space, but we encourage you to embrace these principles for guidance:
 
 * Be humble; practice empathy and humility.
 * Assume competence in each other.
 * Listen carefully and actively.
 * Ask questions, and seek to understand each other's context.
 * Encourage other people to listen as much as they speak.
-* Respect each others time by doing research before asking questions that have been addressed before or in other channels. 
+* Respect each others time by doing research before asking questions that have been addressed before or in other channels.
 
 ## Unacceptable behavior
 
-To help participants understand behaviors that are unacceptable or run counter to our culture, we’ve listed below actions that violate our Code of Conduct policy. 
+To help participants understand behaviors that are unacceptable or run counter to our culture, we’ve listed below actions that violate our Code of Conduct policy.
 
-This list does not cover every case. Each person you interact with is unique, and as a result can define a line of unacceptable behavior that’s unique to them. Ensuring that your behavior does not have a negative impact is your responsibility. 
+This list does not cover every case. Each person you interact with is unique, and as a result can define a line of unacceptable behavior that’s unique to them. Ensuring that your behavior does not have a negative impact is your responsibility.
 
 ### Harassment includes:
 
@@ -60,7 +55,7 @@ This list does not cover every case. Each person you interact with is unique, an
 * Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by using incorrect pronouns or forms of address (misgendering).
 * Microaggressions, which are small comments or questions, either intentional or unintentional, that marginalize people by communicating hostile, derogatory, or negative beliefs. Examples include:
 	* Patronizing language or behavior
-    	* Pedantic corrections that don’t contribute to the conversation (For example: “Well actually’s…") 
+    	* Pedantic corrections that don’t contribute to the conversation (For example: “Well actually’s…")
     	* Assuming without asking that particular people or groups need concepts defined or explained to them. (It’s great to be sensitive to the fact that people may not be familiar with technical terms you use every day. But assuming that people are uninformed can come across as patronizing.)
     	* Assuming that particular groups of people are technically unskilled ("So easy your grandmother could do it.")
 	* Repeatedly interrupting or talking over someone else
@@ -84,11 +79,11 @@ If a participant engages in harassing behavior, the admins may take any action t
 
 ## Message retention
 
-Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of Design Systems Slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
+Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of the BBC News Slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
 ## Privacy
 
-**Please be mindful that things you say here may at some point become public**. This is a public slack. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
+**Please be mindful that things you say here may at some point become public**. This is a not public slack, but it is not unimaginable that a Freedom Of Information request could result in our channel logs being made public. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
 ## Credits and license
 
@@ -110,4 +105,4 @@ We are greatly appreciative of the multiple sources that we drew from to build t
 * [Geek Feminism Wiki: Codes of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
 * [Python Code of Conduct](https://www.python.org/psf/codeofconduct/)
 
-This code of conduct is based on Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism's [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/). 
+This code of conduct is based on [Design Systems Slack Code of Conduct](https://github.com/sushiandrobots/design-systems-slack), which is based on Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism's [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
