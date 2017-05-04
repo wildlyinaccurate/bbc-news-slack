@@ -5,7 +5,7 @@ BBC News Slack Code of Conduct
 - [Welcome](#welcome)
   - [Admins](#admins)
 - [What we strive for](#what-we-strive-for)
-- [Unacceptable behavior](#unacceptable-behavior)
+- [Unacceptable behaviour](#unacceptable-behaviour)
   - [Harassment includes](#harassment-includes)
 - [Reporting](#reporting)
 - [Consequences](#consequences)
@@ -17,7 +17,7 @@ BBC News Slack Code of Conduct
 
 The BBC News Slack exists for BBC staff to discuss things related to the BBC News digital products.
 
-The BBC News Slack is dedicated to providing a welcoming environment for everyone and expects participants in this community to act in a way that promotes an environment that is harassment-free, safe, comfortable, and enjoyable to be a part of. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
+The BBC News Slack is dedicated to providing a welcoming environment for everyone and expects participants in this community to act in a way that promotes an environment that is harassment-free, safe, comfortable, and enjoyable to be a part of. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately.
 
 ### Admins
 The current admins can be found at https://bbcnews.slack.com/team.
@@ -34,16 +34,16 @@ We strive to create a welcoming and inclusive culture that encourages people to 
 * Encourage other people to listen as much as they speak.
 * Respect each others time by doing research before asking questions that have been addressed before or in other channels.
 
-## Unacceptable behavior
+## Unacceptable behaviour
 
-To help participants understand behaviors that are unacceptable or run counter to our culture, we’ve listed below actions that violate our Code of Conduct policy.
+To help participants understand behaviours that are unacceptable or run counter to our culture, we’ve listed below actions that violate our Code of Conduct policy.
 
-This list does not cover every case. Each person you interact with is unique, and as a result can define a line of unacceptable behavior that’s unique to them. Ensuring that your behavior does not have a negative impact is your responsibility.
+This list does not cover every case. Each person you interact with is unique, and as a result can define a line of unacceptable behaviour that’s unique to them. Ensuring that your behaviour does not have a negative impact is your responsibility.
 
 ### Harassment includes:
 
-* Negative or offensive remarks based on race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability, genetic information, sexual orientation, gender identity, gender expression, parental status, marital status, political affiliation, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.
-* Gratuitous or off-topic sexual images or behavior
+* Negative or offensive remarks based on race, religion, colour, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability, genetic information, sexual orientation, gender identity, gender expression, parental status, marital status, political affiliation, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.
+* Gratuitous or off-topic sexual images or behaviour
 * Unwelcome sexual attention or remarks
 * Threats of violence
 * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
@@ -54,7 +54,7 @@ This list does not cover every case. Each person you interact with is unique, an
 * Publication of non-harassing private communication
 * Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by using incorrect pronouns or forms of address (misgendering).
 * Microaggressions, which are small comments or questions, either intentional or unintentional, that marginalize people by communicating hostile, derogatory, or negative beliefs. Examples include:
-	* Patronizing language or behavior
+	* Patronizing language or behaviour
     	* Pedantic corrections that don’t contribute to the conversation (For example: “Well actually’s…")
     	* Assuming without asking that particular people or groups need concepts defined or explained to them. (It’s great to be sensitive to the fact that people may not be familiar with technical terms you use every day. But assuming that people are uninformed can come across as patronizing.)
     	* Assuming that particular groups of people are technically unskilled ("So easy your grandmother could do it.")
@@ -73,9 +73,9 @@ The admins will respect confidentiality requests for the purpose of protecting v
 
 ## Consequences
 
-Participants asked to stop any inappropriate or harassing behavior must comply immediately.
+Participants asked to stop any inappropriate or harassing behaviour must comply immediately.
 
-If a participant engages in harassing behavior, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and identifying the participant publicly as someone about whom we've received complaints.
+If a participant engages in harassing behaviour, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and identifying the participant publicly as someone about whom we've received complaints.
 
 ## Message retention
 
