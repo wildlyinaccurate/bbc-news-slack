@@ -45,12 +45,9 @@ This list does not cover every case. Each person you interact with is unique, an
 * Negative or offensive remarks based on race, religion, colour, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability, genetic information, sexual orientation, gender identity, gender expression, parental status, marital status, political affiliation, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.
 * Gratuitous or off-topic sexual images or behaviour
 * Unwelcome sexual attention or remarks
-* Threats of violence
-* Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
 * Deliberate intimidation
 * Sustained disruption of discussion
 * Continued one-on-one communication after requests to cease
-* Constant private messaging to pick people’s brains rather than having open conversations in public channels
 * Publication of non-harassing private communication
 * Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by using incorrect pronouns or forms of address (misgendering).
 * Microaggressions, which are small comments or questions, either intentional or unintentional, that marginalize people by communicating hostile, derogatory, or negative beliefs. Examples include:
