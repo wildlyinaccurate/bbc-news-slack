@@ -40,18 +40,16 @@ To help participants understand behaviours that are unacceptable or run counter 
 
 This list does not cover every case. Each person you interact with is unique, and as a result can define a line of unacceptable behaviour that’s unique to them. Ensuring that your behaviour does not have a negative impact is your responsibility.
 
-### Harassment includes:
+Examples of unacceptable behaviour include:
 
-* Negative or offensive remarks based on race, religion, colour, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability, genetic information, sexual orientation, gender identity, gender expression, parental status, marital status, political affiliation, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, age, body size, race, or religion.
+* Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, employment, and political views.
 * Gratuitous or off-topic sexual images or behaviour
 * Unwelcome sexual attention or remarks
-* Threats of violence
-* Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
 * Deliberate intimidation
 * Sustained disruption of discussion
 * Continued one-on-one communication after requests to cease
-* Constant private messaging to pick people’s brains rather than having open conversations in public channels
-* Publication of non-harassing private communication
+* Unwanted publication of private communication
 * Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by using incorrect pronouns or forms of address (misgendering).
 * Microaggressions, which are small comments or questions, either intentional or unintentional, that marginalize people by communicating hostile, derogatory, or negative beliefs. Examples include:
 	* Patronizing language or behaviour
@@ -67,15 +65,15 @@ This list does not cover every case. Each person you interact with is unique, an
 
 ## Reporting
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the [admins](#admins) by sending them a direct message. They'll respond as promptly as they can.
+If you witness any inappropriate behaviour, or have any other concerns, please contact the [admins](#admins) by sending them a direct message. They'll respond as promptly as they can.
 
 The admins will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may contact the line manager of a person about whom we’ve received harassment complaints. We will not name harassment victims without their affirmative consent.
 
 ## Consequences
 
-Participants asked to stop any inappropriate or harassing behaviour must comply immediately.
+Participants asked to stop any inappropriate behaviour must comply immediately.
 
-If a participant engages in harassing behaviour, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and reporting the participant to their line manager.
+If a participant engages in inappropriate behaviour, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and reporting the participant to their line manager.
 
 ## Message retention
 
