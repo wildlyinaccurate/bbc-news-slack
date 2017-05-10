@@ -17,22 +17,22 @@ BBC News Slack Code of Conduct
 
 The BBC News Slack exists for BBC staff to discuss things related to the BBC News digital products.
 
-The BBC News Slack is dedicated to providing a welcoming environment for everyone and expects participants in this community to act in a way that promotes an environment that is harassment-free, safe, comfortable, and enjoyable to be a part of. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately.
+The BBC News Slack is dedicated to providing a welcoming, fun and productive environment for everyone. We expect members of this community to act in a way that creates and nurtures an environment which is harassment-free, safe, comfortable, and enjoyable to be a part of, whoever you are. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately. We work hard on improving our plans, code, communications and designs - and we work just as hard on our culture. It is a work in progress, and this Code of Conduct is intended to help us hold to high standards and provide a clear framework for doing that.  
 
 ### Admins
 The current admins can be found at https://bbcnews.slack.com/team.
 
 
-## What we strive for
+## Expected Behaviours
 
-We strive to create a welcoming and inclusive culture that encourages people to have discussions about our digital products. Our atmosphere requires an open exchange of ideas balanced by thoughtful guidelines. It would be impossible to list everything needed to create a more welcoming space, but we encourage you to embrace these principles for guidance:
+We strive to create a welcoming and inclusive culture, one that nurtures the positive working relationships which help us break out of silos and strictures and create better products. We want to support diversity in our teams, our thinking and ultimately in our products. We support an open exchange of ideas and we believe the following guidelines will help create spaces where everyone who is part of BBC News can feel confident that their input is valued and heard. It would be impossible to list everything needed to create a welcoming, supportive space, but we encourage you to embrace these principles:
 
-* Be humble; practice empathy and humility.
-* Assume competence in each other.
-* Listen carefully and actively.
-* Ask questions, and seek to understand each other's context.
-* Encourage other people to listen as much as they speak.
-* Respect each others time by doing research before asking questions that have been addressed before or in other channels.
+1. Generosity is the foundation of good collaboration; assume competence in each other.
+2. Give and receive criticism with grace. Recognise good critiques are kind, clear, and constructive. Focus on goals and requirements rather than personal preferences. 
+3. Be polite, humble and friendly. Practice empathy and humility.
+4. Listen carefully and actively. Seek to understand each other's context - ask questions because you want to hear the answer. 
+5. Earn your audience. Every act of speech requires an act of listening; create an environment where people are encouraged to listen as much as they speak. 
+6. Respect each others' time by doing research before asking questions that have been addressed before or in other channels.
 
 ## Unacceptable behaviour
 
@@ -67,13 +67,13 @@ Examples of unacceptable behaviour include:
 
 If you witness any inappropriate behaviour, or have any other concerns, please contact the [admins](#admins) by sending them a direct message. They'll respond as promptly as they can.
 
-The admins will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received complaints, or privately warn third parties about them. We will not name victims without their affirmative consent.
+The admins will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may contact the line manager of a person about whom we’ve received harassment complaints. We will not name harassment victims without their affirmative consent.
 
 ## Consequences
 
 Participants asked to stop any inappropriate behaviour must comply immediately.
 
-If a participant engages in inappropriate behaviour, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and identifying the participant publicly as someone about whom we've received complaints.
+If a participant engages in inappropriate behaviour, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and reporting the participant to their line manager.
 
 ## Message retention
 
