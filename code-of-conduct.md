@@ -43,7 +43,7 @@ This list does not cover every case. Each person you interact with is unique, an
 Examples of unacceptable behaviour include:
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, age, body size, race, or religion.
-* Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
+* Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, employment, and political views.
 * Gratuitous or off-topic sexual images or behaviour
 * Unwelcome sexual attention or remarks
 * Deliberate intimidation
