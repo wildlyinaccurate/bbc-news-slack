@@ -69,13 +69,13 @@ This list does not cover every case. Each person you interact with is unique, an
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the [admins](#admins) by sending them a direct message. They'll respond as promptly as they can.
 
-The admins will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
+The admins will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may contact the line manager of a person about whom we’ve received harassment complaints. We will not name harassment victims without their affirmative consent.
 
 ## Consequences
 
 Participants asked to stop any inappropriate or harassing behaviour must comply immediately.
 
-If a participant engages in harassing behaviour, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and identifying the participant publicly as someone about whom we've received complaints.
+If a participant engages in harassing behaviour, the admins may take any action they deem appropriate, including warning the offender and up to and including expulsion from this slack and reporting the participant to their line manager.
 
 ## Message retention
 
